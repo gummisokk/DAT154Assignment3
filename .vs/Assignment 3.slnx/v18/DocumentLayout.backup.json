@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|c:\\users\\storh\\documents\\dat154\\assignment 3\\assignment 3\\models\\dat154context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\models\\dat154context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|c:\\users\\storh\\documents\\dat154\\assignment 3\\assignment 3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|c:\\users\\storh\\documents\\dat154\\assignment 3\\assignment 3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|c:\\users\\storh\\documents\\dat154\\assignment 3\\assignment 3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|c:\\users\\storh\\documents\\dat154\\assignment 3\\assignment 3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|c:\\users\\storh\\documents\\dat154\\assignment 3\\assignment 3\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A219E-670D-8284-73B1-9CCAA90BB86C}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment 3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\MainWindow.xaml",
+              "RelativeToolTip": "Assignment 3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T13:23:43.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment 3\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\Models\\Course.cs",
+              "RelativeToolTip": "Assignment 3\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:59:20.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assignment 3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAA7wF0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:21:58.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Assignment 3\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\Models\\Grade.cs",
+              "RelativeToolTip": "Assignment 3\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:04:32.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dat154Context.cs",
+              "DocumentMoniker": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\Models\\Dat154Context.cs",
+              "RelativeDocumentMoniker": "Assignment 3\\Models\\Dat154Context.cs",
+              "ToolTip": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\Models\\Dat154Context.cs",
+              "RelativeToolTip": "Assignment 3\\Models\\Dat154Context.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwGQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:09:39.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment 3\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\storh\\Documents\\DAT154\\Assignment 3\\Assignment 3\\Models\\Student.cs",
+              "RelativeToolTip": "Assignment 3\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:32:25.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
